@@ -1,0 +1,2 @@
+# xotira
+Unutilmas Xotiralar
